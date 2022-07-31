@@ -6,13 +6,11 @@
 > <br/>
 > This form was created from zero based on figma and without consultation
 > <br/>
-> I tried to be as close as possible to figma
+> I also evened out some spacings that were 1 or 2px apart only
 > <br/>
-> It was also implemented a better accessibility by darkening what didn't have the ideal contrast when you put the mouse on top of it
+> It was also implemented a better accessibility applied on the checkbox to be accessed through the tab (On that part I had to do a little bit of consulting. I didn't know that the previous div had to have the position relative and the input absolute. I had done it as the input being relative and the new one as absolute, the two were close but never in the same square. It was useful for me not to forget anymore)
 > <br/>
-> Only one input had minimum mandatory characters and the minlength was added then only on it.
-> <br/>
-> No input with mandatory requirement added to not mess up the layout too much, but you can get a sense of input:invalid with the minLenght input applied
+> and also darkening what didn't have the ideal contrast when you put the mouse over it
 > </p>
 
 <hr/>
