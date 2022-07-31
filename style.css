@@ -173,6 +173,7 @@ legend {
 
 textarea {
   resize: none;
+  padding-top: 10px;
 }
 
 label {
