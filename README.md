@@ -24,7 +24,7 @@ It was also implemented a better accessibility applied on the checkbox to be acc
 </div>
 
 <br/>
-<br/>.
+<br/>
 
 <div align="center">
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technologies :hammer_and_wrench:</h2>
