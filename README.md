@@ -1,4 +1,4 @@
-## <h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating Forms 2 :clipboard:</h1>
+## <h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating Form 2 :clipboard:</h1>
 
 <h3 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The objective :bulb:</h3>
 
@@ -38,7 +38,7 @@ It was also implemented a better accessibility applied on the checkbox to be acc
 
 <div>
 <h2>Page Preview :mag:</h2>
-<h3>Link preview: <a href="https://alefwarchon.github.io/Creating-Form-02/">Creating Forms 2<a/></h3>
+<h3>Link preview: <a href="https://alefwarchon.github.io/Creating-Form-02/">Creating Form 2<a/></h3>
 </div>
 
 
